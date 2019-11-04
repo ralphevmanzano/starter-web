@@ -7,6 +7,7 @@ puropose purospose
 ## Deployment
 aaaaaaaaaa
 ## How to Contribute
+Please fork this repo and knife it with spoon
 bbbbbbbbb
 ccccccccccc
 ## Copyright
