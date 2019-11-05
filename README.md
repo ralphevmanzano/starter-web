@@ -11,4 +11,4 @@ Please fork this repo and knife it with spoon
 bbbbbbbbb
 ccccccccccc
 ## Copyright
-copy right notice ni sya
+copy right notice ni sya, all rights resrved
