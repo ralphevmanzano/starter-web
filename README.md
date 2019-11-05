@@ -12,3 +12,4 @@ bbbbbbbbb
 ccccccccccc
 ## Copyright
 copy right notice ni sya, all rights resrved
+Quick maths
